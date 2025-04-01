@@ -57,6 +57,8 @@ Together, they build solutions that solve for real constraints — and produce m
 ## 🔗 Visit the Live CTS Labs Showcase
 [https://cts-emeia-labs.github.io/showcase/](https://cts-emeia-labs.github.io/showcase/)
 
+[🚧 Take a look at our project portfolio 🚧](https://www.debbaut.solutions/projects-portfolio/)
+
 ---
 
 ## Licensing
