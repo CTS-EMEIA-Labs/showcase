@@ -1,0 +1,73 @@
+# ==============================
+# Core Ignores for a Clean Repo
+# ==============================
+
+# Ignore Node.js dependencies (if Tailwind CLI or tooling is added)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore macOS junk
+.DS_Store
+
+# Ignore Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===========================
+# Editor / IDE Configuration
+# ===========================
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Temporary editor files
+*~       # backup files
+*.swp    # Vim swap files
+*.bak    # backup files
+
+# ============================
+# Optional Future Dev Tools
+# ============================
+
+# Environment files (for local dev or build tools)
+.env
+.env.*
+
+# Static site generator outputs (if added later)
+dist/
+build/
+_site/
+
+# Jekyll or Hugo cache (if used for Docs later)
+.jekyll-cache/
+.jekyll-metadata/
+public/
+
+# ============================
+# Portfolio Extras
+# ============================
+
+# Ignore temporary image or media exports
+*.psd
+*.ai
+*.sketch
+*.xcf
+
+# Ignore preview thumbnails or temp renders
+*.preview.png
+*.thumb.jpg
+
+# ============================
+# GitHub Pages Artifacts
+# ============================
+
+# Ignore any custom domain config outside root
+CNAME
